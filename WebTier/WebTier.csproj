@@ -34,6 +34,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Crystalbyte.Equinox.Core, Version=0.4.4191.41746, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Crystalbyte Equinox v0.4.0.0\Debug\Crystalbyte.Equinox.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Crystalbyte.Equinox.Imap, Version=0.4.4191.41747, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Crystalbyte Equinox v0.4.0.0\Debug\Crystalbyte.Equinox.Imap.dll</HintPath>
+    </Reference>
+    <Reference Include="Crystalbyte.Equinox.Mime, Version=0.4.4191.41746, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Crystalbyte Equinox v0.4.0.0\Debug\Crystalbyte.Equinox.Mime.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Data" />

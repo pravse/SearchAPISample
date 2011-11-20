@@ -17,10 +17,12 @@ namespace WebTier.Controllers
             return View("Index");
         }
 
+
         public ActionResult Yahoo()
         {
             ViewData["Title"] = "Search/Directory APIs";
             ViewData["Header"] = "Yahoo Local Search APIs";
+
             return View("Yahoo");
         }
 
